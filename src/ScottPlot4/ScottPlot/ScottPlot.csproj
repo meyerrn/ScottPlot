@@ -21,7 +21,7 @@
         <AssemblyOriginatorKeyFile>Key.snk</AssemblyOriginatorKeyFile>
         <Authors>Scott Harden</Authors>
         <Company>Harden Technologies, LLC</Company>
-        <RepositoryUrl>https://github.com/ScottPlot/ScottPlot</RepositoryUrl>
+        <RepositoryUrl>https://github.com/meyerrn/ScottPlot.git</RepositoryUrl>
         <DocumentationFile>ScottPlot.xml</DocumentationFile>
         <NoWarn>1591</NoWarn>
         <DebugType>portable</DebugType>
